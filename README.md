@@ -1,4 +1,4 @@
-## Advanced Machine Learning - Assignment1
+## Advanced Machine Learning - Assignment 1
 Contains the following Python programs:
 
 #PCA.py
