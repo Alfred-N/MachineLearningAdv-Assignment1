@@ -15,3 +15,6 @@ and function collection "dataFunctions.py".
 
 #dataFunctions.py
 Collection of functions used for classical MDS and Isomap. Uses numpy.
+
+#data
+Uses data from https://archive.ics.uci.edu/ml/datasets/zoo
